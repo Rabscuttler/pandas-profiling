@@ -307,3 +307,5 @@ You need [Python 3](https://python3statement.org/) to run this package. Other de
 | [requirements-dev.txt](https://github.com/pandas-profiling/pandas-profiling/blob/master/requirements-dev.txt)  |  Requirements for development|
 | [requirements-test.txt](https://github.com/pandas-profiling/pandas-profiling/blob/master/requirements-test.txt) | Requirements for testing|
 | [setup.py](https://github.com/pandas-profiling/pandas-profiling/blob/master/setup.py) | Requirements for Widgets etc. |
+
+.
